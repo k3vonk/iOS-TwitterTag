@@ -1,6 +1,8 @@
 # iOS-TwitterTag
 A 4th Year Project to query the Twitter API to retrieve user specified Twitter tag.
 
+![twittertag](https://github.com/k3vonk/iOS-TwitterTag/blob/main/twitter%20tag.png)
+
 # Structure
 To develop the application there were several core design requirements:
 1. Prototype Cells - to display tweets with twitter tags
